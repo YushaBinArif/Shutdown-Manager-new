@@ -1,0 +1,9 @@
+C:\seeSharp\SM\SM\bin\Debug\SM.exe.config
+C:\seeSharp\SM\SM\bin\Debug\SM.exe
+C:\seeSharp\SM\SM\bin\Debug\SM.pdb
+C:\seeSharp\SM\SM\obj\Debug\SM.csprojResolveAssemblyReference.cache
+C:\seeSharp\SM\SM\obj\Debug\SM.Form1.resources
+C:\seeSharp\SM\SM\obj\Debug\SM.Properties.Resources.resources
+C:\seeSharp\SM\SM\obj\Debug\SM.csproj.GenerateResource.Cache
+C:\seeSharp\SM\SM\obj\Debug\SM.exe
+C:\seeSharp\SM\SM\obj\Debug\SM.pdb
